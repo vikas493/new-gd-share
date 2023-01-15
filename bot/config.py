@@ -12,7 +12,7 @@ AUTHORISED_USERS = [1487627714, 1795525423, 685359441]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
 INDEX_URL = "https://myindex.mahanbharat.workers.dev/1:"
 IS_TEAM_DRIVE = True
-USE_SERVICE_ACCOUNTS = True
+USE_SERVICE_ACCOUNTS = False
 # --------------------------------------
 
 # dont edit below this >
